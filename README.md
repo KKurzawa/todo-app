@@ -4,9 +4,9 @@
 ## Description
 A very simple todo list built using the MERN stack.
 
-![screenshot1](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot1.png)
-![screenshot2](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot2.png)
-![screenshot3](https://github.com/KKurzawa/react-login/blob/main/client/public/Screenshot3.png)
+![screenshot1](https://github.com/KKurzawa/todo-app/blob/main/client/public/Screenshot1.png)
+![screenshot2](https://github.com/KKurzawa/todo-app/blob/main/client/public/Screenshot2.png)
+![screenshot3](https://github.com/KKurzawa/todo-app/blob/main/client/public/Screenshot3.png)
 
 [Github Repository](https://github.com/KKurzawa/todo-list)
 
