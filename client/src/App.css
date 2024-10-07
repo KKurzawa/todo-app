@@ -1,0 +1,67 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* background-color: gray; */
+}
+
+body {
+  min-height: 100vh;
+  background-color: gray;
+  font-family: 'Nunito', sans-serif;
+  color: #fff;
+}
+
+.header{
+  background-color: rgba(0,0,0,0.4);
+  height: 5rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+main{
+  width: 100%;
+    max-width: 420px;
+    min-height: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    padding: 1rem;
+    margin: 2rem;
+    background-color: rgba(0,0,0,0.4);
+}
+
+.todo-input{
+  color: black;
+}
+
+.todo-input:focus{
+  outline: solid 2px black;
+}
+
+.disabled-todo-btn {
+  padding: 0.5rem;
+  background-color: #ffffff7b;
+  color: #00000073;
+}
+
+.todo-btn {
+padding: 0.5rem;
+background-color: #fff;
+color: #000;
+}
+
+.todo-container{
+  background-color: black;
+}
+
+.line-through{
+  text-decoration: line-through;
+}
+
+.icon{ 
+  font-size: 2rem;
+}
